@@ -1,6 +1,6 @@
 # Image to Text Extractor
 
-A professional Java GUI application that extracts text from images using OCR (Optical Character Recognition) technology. The application features a modern interface with drag-and-drop functionality, file upload, and clipboard integration.
+It's been a while, two months in the making! A professional Java GUI application that extracts text from images using OCR (Optical Character Recognition) technology. The application features a modern interface with drag-and-drop functionality, file upload, and clipboard integration.
 
 ## Features
 
